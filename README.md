@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Gerard
+
+**I like defending and creating solutions that protect networks. Join me as I show my learning and growth in cybersecurity (and probably more)**
+
+*Still fresh, so watch this space for my AWS SOC Lab upload and other projects*
 
 <!--
 **VIR2050/VIR2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
