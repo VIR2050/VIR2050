@@ -2,7 +2,9 @@
 
 **I like defending and creating solutions that protect networks. Join me as I show my learning and growth in cybersecurity (and probably more)**
 
-*Still fresh, so watch this space for my AWS SOC Lab upload and other projects*
+*Still fresh, so watch this space as I  detail how I made my AWS SOC lab and what I learnt along the way*
+![AWS SOC Lab](https://github.com/user-attachments/assets/7a15cf9a-206e-485b-9d75-e14394f159f7)
+
 
 <!--
 **VIR2050/VIR2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
