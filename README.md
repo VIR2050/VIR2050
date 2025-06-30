@@ -3,7 +3,8 @@
 **I like defending and creating solutions that protect networks. Join me as I share my learning and growth in cybersecurity (and probably more)**
 
 *Still fresh, so watch this space as I  detail how I developed my AWS SOC lab and what I learnt along the way*
-![AWS SOC lab](https://github.com/user-attachments/assets/3605d93c-5e5f-4534-86e2-7af44dc95d55)
+![AWS SOC lab](https://github.com/user-attachments/assets/433c7c28-7f00-43ed-9bd7-49f4423255a6)
+
 
 
 <!--
